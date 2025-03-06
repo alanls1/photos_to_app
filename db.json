@@ -1,4 +1,5 @@
-[
+
+{ "photos": [
   {
     "albumId": 1,
     "id": 1,
@@ -69,4 +70,4 @@
     "url": "https://s5.static.brasilescola.uol.com.br/be/2021/11/floresta-amazonica-paisagem.jpg",
     "thumbnailUrl": "https://s5.static.brasilescola.uol.com.br/be/2021/11/floresta-amazonica-paisagem.jpg"
   },
-]
+]}
